@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HappeningNow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_top_stories">Top stories</string>
+    <string name="tab_most_viewed">Most viewed</string>
+    <string name="text_by">By</string>
+</resources>
